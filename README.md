@@ -4,9 +4,9 @@
 
 - [Course 1 Project 2 : Producer Consumer Laboratory Activity](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/Producer_consumer_lab)
 
-- Course 1 Project 3 : Programming Assignment: Dining Philosophers Assignment
+- [Course 1 Project 3 : Programming Assignment: Dining Philosophers Assignment](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/Dining%20Philosophers)
 
-- Course 1 Project 4 : Programming Assignment: Sleeping Barber Problem Assignment
+- [Course 1 Project 4 : Programming Assignment: Sleeping Barber Problem Assignment](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/Sleeping%20Barber%20Problem)
 
 - Course 1 Project 5 : Programming Assignment: Python 3 Parallel Programming Assignment
 
