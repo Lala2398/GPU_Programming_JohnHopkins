@@ -14,7 +14,9 @@
 
 - [Course 1 Graded Project : Programming Assignment: Python 3 Parallel Programming Assignment](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/Programming%20Assignment%3A%20Python%203%20Parallel%20Programming%20Assignment)
 
-- Course 1 Project 6 : C++ Parallel Programming Lab Activity + Assignment 
+- [Course 1 Project 6 : C++ Parallel Programming Lab Activity]()
+
+- Course 1 Graded Project : Programming Assignment: C++ Parallel Programming Assignment
 
 - Course 1 Project 7 : Programming Assignment: NVCC Help Command Assignment
 
