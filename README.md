@@ -16,7 +16,7 @@
 
 - [Course 1 Project 6 : C++ Parallel Programming Lab Activity](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/C%2B%2B%20Parallel%20Programming%20Lab%20Activity)
 
-- Course 1 Graded Project : Programming Assignment: C++ Parallel Programming Assignment
+- [Course 1 Graded Project : Programming Assignment: C++ Parallel Programming Assignment](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/C%2B%2B_Module3_project)
 
 - Course 1 Project 7 : Programming Assignment: NVCC Help Command Assignment
 
