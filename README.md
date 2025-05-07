@@ -22,7 +22,7 @@
 
 - [Course 1 Project 8 : CUDA Compilation Lab](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/compilation_cuda_lab)
 
-- [Course 1 Project 9 : Programming Assignment: CUDA Software Layers and Compilation]()
+- [Course 1 Project 9 : Programming Assignment: CUDA Software Layers and Compilation](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/CUDA%20Software%20Layers%20and%20Compilation)
 
 - [Course 1 Project 10 : Simple CUDA code Lab]
 
