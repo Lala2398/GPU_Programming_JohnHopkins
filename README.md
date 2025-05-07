@@ -18,9 +18,9 @@
 
 - [Course 1 Graded Project : Programming Assignment: C++ Parallel Programming Assignment](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/C%2B%2B_Module3_project)
 
-- Course 1 Project 7 : Programming Assignment: NVCC Help Command Assignment
+- [Course 1 Project 7 : Programming Assignment: NVCC Help Command Assignment](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/NVCC)
 
-- Course 1 Project 8 : CUDA Compilation Lab
+- [Course 1 Project 8 : CUDA Compilation Lab](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/compilation_cuda_lab)
 
 - Course 1 Project 9 : Programming Assignment: CUDA Software Layers and Compilation
 
