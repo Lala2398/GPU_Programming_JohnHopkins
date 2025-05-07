@@ -22,11 +22,13 @@
 
 - [Course 1 Project 8 : CUDA Compilation Lab](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/compilation_cuda_lab)
 
-- Course 1 Project 9 : Programming Assignment: CUDA Software Layers and Compilation
+- [Course 1 Project 9 : Programming Assignment: CUDA Software Layers and Compilation]()
 
-- Course 1 Project 10 : Simple CUDA code Lab + Project Assignment
+- [Course 1 Project 10 : Simple CUDA code Lab]
 
-- Course 1 Project 11 : Programming Assignment: Complex CUDA Project Assignment
+- [Course 1 Project Assignment]
+
+- [Course 1 Project 11 : Programming Assignment: Complex CUDA Project Assignment]
 
 
 ## Course 2 : Introduction to Parallel Programming with CUDA 
