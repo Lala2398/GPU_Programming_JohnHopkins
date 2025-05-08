@@ -24,7 +24,7 @@
 
 - [Course 1 Project 9 : Programming Assignment: CUDA Software Layers and Compilation](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/CUDA%20Software%20Layers%20and%20Compilation)
 
-- [Course 1 Project 10 : Simple CUDA code Lab + Project Assignment (same project)]()
+- [Course 1 Project 10 : Simple CUDA code Lab + Project Assignment (same project)](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/Simple_Cuda)
 
 - [Course 1 Project 11 : Programming Assignment: Complex CUDA Project Assignment]
 
