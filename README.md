@@ -1,6 +1,8 @@
 # GPU_Programming Specizialization from John Hopkins University 
 
-## Course 1 : Introduction to Concurrent Programming with GPUs
+## [Course 1 : Introduction to Concurrent Programming with GPUs](https://github.com/Lala2398/GPU_Programming_JohnHopkins/blob/main/GPU_1st.pdf)  
+
+#### [for detailed information(https://www.coursera.org/account/accomplishments/verify/QWNOMKGE0I79)
 
 - [Course 1 Project 1 : Introductory C++ Programming Lab Exercise](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/GPU_Cpp)
 
@@ -26,14 +28,4 @@
 
 - [Course 1 Project 10 : Simple CUDA code Lab + Project Assignment (same project)](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/Simple_Cuda)
 
-- [Course 1 Project 11 : Programming Assignment: Complex CUDA Project Assignment]
-
-
-## Course 2 : Introduction to Parallel Programming with CUDA 
-
-
-## Course 3 : CUDA at Scale for the Enterprise 
-
-
-
-## Course 4 : CUDA ADvanced Libraries 
+- [Course 1 Project 11 : Programming Assignment: Complex CUDA Project Assignment](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/Complex_cuda)
