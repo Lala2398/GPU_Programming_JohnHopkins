@@ -2,7 +2,7 @@
 
 ## [Course 1 : Introduction to Concurrent Programming with GPUs](https://github.com/Lala2398/GPU_Programming_JohnHopkins/blob/main/GPU_1st.pdf)  
 
-#### [for detailed information(https://www.coursera.org/account/accomplishments/verify/QWNOMKGE0I79)
+#### [for detailed information] (https://www.coursera.org/account/accomplishments/verify/QWNOMKGE0I79)
 
 - [Course 1 Project 1 : Introductory C++ Programming Lab Exercise](https://github.com/Lala2398/GPU_Programming_JohnHopkins/tree/main/GPU_Cpp)
 
